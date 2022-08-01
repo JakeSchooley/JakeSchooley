@@ -6,7 +6,7 @@ I'm currently learning SQL & R.
 I'm enrolled in the Google Data Analytics Certification. Very new to the GitHub Community! 
 
 
-[![README Visitor Count](https://readmevisitorcount.yourreplitusername.repl.co)](https://github.com/qaiik/readmevisitorcount)
+
 <!--
 **JakeSchooley/JakeSchooley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
